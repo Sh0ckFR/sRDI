@@ -1,3 +1,9 @@
+# About this fork
+
+This is a fork of the original project with a fixed version of ShellcodeRDI.py because the original project sounds like not maintened anymore.
+
+This repository will be deleted when the current issues will be fixed.
+
 # sRDI - Shellcode Reflective DLL Injection
 sRDI allows for the conversion of DLL files to position independent shellcode. It attempts to be a fully functional PE loader supporting proper section permissions, TLS callbacks, and sanity checks. It can be thought of as a shellcode PE loader strapped to a packed DLL.
 
